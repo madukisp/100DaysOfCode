@@ -1,2 +1,0 @@
-*.exe filter=lfs diff=lfs merge=lfs -text
-dist/chatgpt-fullscreen-win32-x64/chatgpt-fullscreen.exe filter=lfs diff=lfs merge=lfs -text
