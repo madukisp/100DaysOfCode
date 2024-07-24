@@ -1,0 +1,198 @@
+,IMPORTE CAPELA,,,,,,,,,,,,,,,,,,Estabelecimentos,,,,Estabelecimentos,TIPO,STS
+Serviço de Saúde,CNES,Estabelecimento,Telefone,Endereço da Unidade,E-mail da Unidade,Diretor / Gerente / Supervisor,E-mail do Gerente,Celular,RT de Enfermagem,E-mail RT de Enfermagem,,,,,,,,,AE Dr. Milton Aldred,,,,AE Dr. Milton Aldred,AE,CAPELA
+AE,2751909,AE Dr. Milton Aldred,5932-2015 | 5528-1475,"Rua São Caetano do Sul, 381","aemiltonaldred@saudedafamilia.org, aemiltonaldred.rh@saudedafamilia.org",Karine Cristina Castão,kcastao@saudedafamilia.org,97401-3395,Agnaldo Alves Barbosa,aabarbosa@saudedafamilia.org,,,,,,,,,AMA 24H Jardim Icaraí Quintana,,,,AMA 24H Jardim Icaraí Quintana,AMA,CAPELA
+AMA,6360890,AMA 24H Jardim Icaraí Quintana,5925-6668 | 5924-6642 | 5925-1664 | 5973-6677 / 5925-2222 | 5939-7589 | 5924-8291 | 5972-4328 | 5925-6573,"Rua São Roque do Paraguaçu, 190",ama.jdicaraiquintana.24horas@saudedafamilia.org,"Leticia Souza Fernandes 
+",lsfernandes@saudedafamilia.org,"99447-3595 (Gerente)
+",Celma Pereira de Sousa,cdesousa@saudedafamilia.org,,,,,,,,,AMA UBS Jardim Mirna,,,,APD Capela do Socorro,APD,CAPELA
+AMA | ESF | SB | eMulti,2787628,AMA UBS Jardim Mirna,5526-2114 | 5527-8798,"Rua Dr. Juvenal Hudson Ferreira, 13",ubsjardimmirna@saudedafamilia.org,Angela de Lima Silva Pujol,apujol@saudedafamilia.org,11 99275-1191,Malu Calazans Moraes dos Santos,mcalazans@saudedafamilia.org,,,,,,,,,AMA/UBS Jardim Castro Alves Dra Maria Cristina F,,,,CAPS Adulto III Grajaú,CAPS,CAPELA
+AMA | ESF | UBS | SB | eMulti,2787253,AMA/UBS Jardim Castro Alves Dra Maria Cristina F, 5973-8680 | 5924-5670 | 5971-2157 | 5924-6579,"Rua João Paulo Barreto, 131",ubsjardimcastroalves@saudedafamilia.org,Caroline Aparecida de Sousa Cardoso,ccardoso@saudedafamilia.org,99974-6780,"Rafaela Aparecida de Lima
+Andrea Elaine de Souza
+Nyedja Luana Kelly Siva","ralima@saudedafamilia.org, aesouza@saudedafamilia.org, nysilva@saudedafamilia.org",,,,,,,,,APD Capela do Socorro,,,,CAPS Adulto III Capela do Socorro,CAPS,CAPELA
+APD,-,APD Capela do Socorro,5932-2015 | 5528-1475,"Rua São Caetano do Sul, 381",apdcapeladosocorro@saudedafamilia.org,Karine Cristina Castão,kcastao@saudedafamilia.org,97401-3395,Debora Amaro Barbosa de Lima,damaro@saudedafamilia.org,,,,,,,,,APD Interlagos,,,,CAPS Alcool e Drogas III Grajaú,CAPS,CAPELA
+APD,-,APD Interlagos,5666-7636 | 5667-9205,"AV. DO RIO BONITO, 3100",cer3.interlagos@saudedafamilia.org,Daniela Geanette,dgeanette@saudedafamilia.org,94778-0918,Claudia Daniela Ribeiro Luz,cdluz@saudedafamilia.org,,,,,,,,,CAPS Adulto III Capela do Socorro,,,,CAPS Infanto Juvenil II Capela do Socorro (PIRAÇÃO),CAPS,CAPELA
+CAPS,7165072,CAPS Adulto III Capela do Socorro,5666-8157,"Rua Guaiuba, 77",capsadultocapela@saudedafamilia.org,Daniele Abrão Zierth,dzierth@saudedafamilia.org,99659-7403,"DANIELE CRISTINE ALVES BARRETO 
+NUNES CORREA",dccorrea@saudedafamilia.org,,,,,,,,,CAPS Adulto III Grajaú,,,,CAPS Infanto Juvenil III Cidade Dutra (SACI),CAPS,CAPELA
+CAPS,9664815,CAPS Adulto III Grajaú,5976-4531,"Rua Engenheiro Guaracy Torres, 1243",capsadulto3.grajau@saudedafamilia.org,Lucas Ribeiro da Silva,lursilva@saudedafamilia.org,99117-2803,"Thais Pereira Hayashi
+Adelaine Sousa de Araújo","thayashi@saudedafamilia.org, asaraujo@saudedafamilia.org",,,,,,,,,CAPS Alcool e Drogas III Grajaú,,,,CAPS Infanto-Juvenil II Parelheiros (AQUARELA),CAPS,PARELHEIROS
+CAPS,9685111,CAPS Alcool e Drogas III Grajaú,5528-0280,"Rua Engenheiro Guaracy Torres, 1253",capsad3.grajau@saudedafamilia.org,Gabriela Ortale Silva,gortale@saudedafamilia.org,99307-0283,Marilia Carvalho Bonuti,mbonuti@saudedafamilia.org,,,,,,,,,CAPS Infanto Juvenil II Capela do Socorro (PIRAÇÃO),,,,CEO II Capela do Socorro,CEO,CAPELA
+CAPS,6657184,CAPS Infanto Juvenil II Capela do Socorro (PIRAÇÃO),5526-6389,"Rua Caruanense, 186",capsijpiracao@saudedafamilia.org,Adriano de Oliveira,adoliveira@saudedafamilia.org,96301-8908,Miréia Clemente Ferreira,mcferreira@saudedafamilia.org,,,,,,,,,CAPS Infanto Juvenil III Cidade Dutra (SACI),,,,CEO III Parelheiros,CEO,PARELHEIROS
+CAPS,9664831,CAPS Infanto Juvenil III Cidade Dutra (SACI),5924-3378 | 2362-5991,"Av. Guilherme Henschel, 399",caps3ij.cidadedutra@saudedafamilia.org,Cristiane Stoever Dacal,cstoever@saudedafamilia.org,99785-3332 | 997407839,Karine Ribeiro Santin,ksantin@saudedafamilia.org,,,,,,,,,CEO II Capela do Socorro,,,,CER 4 Milton Aldred,CER,CAPELA
+CEO | SB,7975465,CEO II Capela do Socorro,5932-2015 | 5528-1475,"Rua São Caetano do Sul, 381",ceo2.capeladosocorro@saudedafamilia.org,Karine Cristina Castão,kcastao@saudedafamilia.org,97401-3395,Agnaldo Alves Barbosa,aabarbosa@saudedafamilia.org,,,,,,,,,CER 4 Milton Aldred,,,,CER III Interlagos,CER,CAPELA
+CER,9844589,CER 4 Milton Aldred,"5932-2015 | 5528-1475 | 
+5932-2209","Rua São Caetano do Sul, 381",cer4.capeladosocorro@saudedafamilia.org,Karine Cristina Castão,kcastao@saudedafamilia.org,97401-3395,Agnaldo Alves Barbosa,aabarbosa@saudedafamilia.org,,,,,,,,,CER III Interlagos,,,,CER II Parelheiros ,CER,PARELHEIROS
+CER,4215818,CER III Interlagos,5666-7636 | 5667-9205,"AV. DO RIO BONITO, 3100",cer3.interlagos@saudedafamilia.org,Daniela Geanette,dgeanette@saudedafamilia.org,94778-0918,Claudia Daniela Ribeiro Luz,cdluz@saudedafamilia.org,,,,,,,,,EEV Capela do Socorro (Alocado no HMCS),,,,EMAD Novo Horizonte,EMAD,CAPELA
+EEV,,EEV Capela do Socorro (Alocado no HMCS),,"Rua Cássio de Campos Nogueira, 2.031",eev.capeladosocorro@saudedafamilia.org,"Cintya Fernandes da Silva (Diretora)
+Alberto Alves Fernandes
+Claudio Mauad Junior","cfernandes@saudedafamilia.org, aafernandes@saudedafamilia.org, cmjunior@saudedafamilia.org","96398-5424 (Diretora)
+99964-3041 (Alberto)
+99472-5126 (Claudio)",,,,,,,,,,,EMAD Hospital Capela do Socorro,,,,SAD Capela do Socorro (EMAD UAD Capela do Socorro),EMAD,CAPELA
+EMAD,,EMAD Hospital Capela do Socorro,"5527-1060 | 5925-4335 | 
+5929-5960","Rua Cássio de Campos Nogueira, 2.031",hm.capeladosocorro@saudedafamilia.org,"Cintya Fernandes da Silva (Diretora)
+Alberto Alves Fernandes
+Claudio Mauad Junior","cfernandes@saudedafamilia.org, aafernandes@saudedafamilia.org, cmjunior@saudedafamilia.org","96398-5424 (Diretora)
+99964-3041 (Alberto)
+99472-5126 (Claudio)",,,,,,,,,,,EMAD Novo Horizonte,,,,EMAD Hospital Capela do Socorro,EMAD,CAPELA
+EMAD,-,EMAD Novo Horizonte,5527-8444 ,"Rua Caruanense, 186","ubsnovohorizonte@saudedafamilia.org, ubs.jardimnovohorizonte.emad@saudedafamilia.org",,,,Alexsando Antonio de Avelar,aavelar@saudedafamilia.org,,,,,,,,,Hospital Municipal Capela do Socorro,,,,EMAD Parelheiros,EMAD,PARELHEIROS
+RHC | SADT,7992890,Hospital Municipal Capela do Socorro,"5527-1060 | 5925-4335 
+5929-5960","Rua Cássio de Campos Nogueira, 2.031","hm.capeladosocorro.rh@saudedafamilia.org, hm.capeladosocorro@saudedafamilia.org","Cintya Fernandes da Silva (Diretora)
+Alberto Alves Fernandes
+Claudio Mauad Junior","cfernandes@saudedafamilia.org, aafernandes@saudedafamilia.org, cmjunior@saudedafamilia.org","96398-5424 (Diretora)
+99964-3041 (Alberto)
+99472-5126 (Claudio)","Marja Rany Rigotti Baltor
+Eliane Lourdes Galindo Araújo
+Katilene Pereira da Silva
+Lucineia do Carmo de Souza
+Marco Antonio Marciano","mbaltor@saudedafamilia.org, elgaraujo@saudedafamilia.org, katilenepsilva@saudedafamilia.org, lcarmosouza@saudedafamilia.org, mmarciano@saudedafamilia.org",,,,,,,,,PAI Cidade Dutra,,,,Hospital Municipal Capela do Socorro,HM,CAPELA
+PAI,-,PAI Cidade Dutra,5666-8112,"Rua Guaruvá, 429",pai.cidadedutra@saudedafamilia.org,Camila Rocha Ferreira de Oliveira,camferreira@saudedafamilia.org,98203-0924,,,,,,,,,,,PAI Grajaú,,,,PAI Cidade Dutra,PAI,CAPELA
+PAI,-,PAI Grajaú,5939-5782,"Rua João Paulo Barreto, 131",paicastroalves@saudedafamilia.org,Adriana Calabria da Silva,acalabria@saudedafamilia.org,94241-4723,Daiane Pereira de Sousa Santos ,daisousa@saudedafamilia.org,,,,,,,,,PAI Vila São José,,,,PAI Grajaú (Jardim Castro Alves),PAI,CAPELA
+PAI,-,PAI Vila São José,5928-9529 | 5924-3636 | 5924-3019,Avenida Carlos Oberhuber 659,pai.saojose@saudedafamilia.org,Solange Pereira Fernandes Carvalho,socarvalho@saudedafamilia.org,11 94849-5579,,,,,,,,,,,SAD Capela do Socorro (EMAD UAD Capela do Socorro),,,,PAI Parelheiros (Jardim Campinas),PAI,PARELHEIROS
+EMAD,6365825,SAD Capela do Socorro (EMAD UAD Capela do Socorro),5666-5051 | 5666-7134,"Rua Guaruvá, 429 
+(mesmo endereço do PAI Cidade Dutra)
+",emad.uad.capeladosocorro@saudedafamilia.org,Flavio Ribeiro de Souza,fsouza@saudedafamilia.org,97205-2464,Fernanda Modesto de Abreu,fabreu@saudedafamilia.org,,,,,,,,,SRT Capela do Socorro I,,,,PSM Balneário São José,PSM,PARELHEIROS
+SRT,-,SRT Capela do Socorro I,5667-7628,"Rua Rubens Montanaro de Borba, 718",srtcapeladosocorro@saudedafamilia.org,Cynthia Ferreira Romão,cromao@saudedafamilia.org,97087-7176,Não se aplica,,,,,,,,,,SRT Capela do Socorro II,,,,SRT Capela do Socorro I,SRT,CAPELA
+SRT,-,SRT Capela do Socorro II,5660-7334,"Rua Guaiúba, 61",srt.capeladosocorro2@saudedafamilia.org,Maria Elisa Rizzi Cintra,mecintra@saudedafamilia.org,99291-3648,Não se aplica,,,,,,,,,,SRT Capela do Socorro III,,,,SRT Capela do Socorro II,SRT,CAPELA
+SRT,-,SRT Capela do Socorro III,2359-8834,"Rua Gomes Pedrosa, 82 - Cidade Dutra",srt.capeladosocorro3@saudedafamilia.org,Murilo Spolodorio,mspolidorio@saudedafamilia.org,98109-2401,Não se aplica,,,,,,,,,,SRT Capela do Socorro IV,,,,SRT Capela do Socorro III,SRT,CAPELA
+SRT,-,SRT Capela do Socorro IV,2359-7711 | 97203-6497,"Av. Coronel Octaviano de Freitas Costa, 98",srt.capeladosocorro4@saudedafamilia.org,Janaina Nascimento Batista ,jnbatista@saudedafamilia.org,96853-3273,Não se aplica,,,,,,,,,,SRT Grajaú I,,,,SRT Capela do Socorro IV,SRT,CAPELA
+SRT ,-,SRT Grajaú I,5934-3468 | 97194-6658,"Avenida Dona Belmira Marin, 5195, Jardim Shangrila",srt2.grajau1@saudedafamilia.org,Simone Matias Silva,smatias@saudedafamilia.org,95151-1487,Não se aplica,,,,,,,,,,SRT Grajau II,,,,SRT Grajau II,SRT,CAPELA
+SRT,,SRT Grajau II,5928-2087,Rua Gustavo Adolfo Becquer 83 - Jardim Floresta,srt.capeladosocorro5@saudedafamilia.org,Romulo Barbosa Ferraz,rferraz@saudedafamilia.org,96247-4755,Não se aplica,,,,,,,,,,UBS Alcina Pimentel Piza,,,,SRT Grajaú I,SRT,CAPELA
+ESF | SB,4049896,UBS Alcina Pimentel Piza,5974-2289 | 5974-9764 | 5974-0013,"Estrada Itaquaquecetuba, 8855",ubsalcinapimentel@saudedafamilia.org,Eneida Cecilia More Moretti Fre,emoretti@saudedafamilia.org,98265-1617,Patricia Aparecida da Costa Santana,pasantana@saudedafamilia.org,,,,,,,,,UBS Anchieta,,,,SRT Parelheiros I,SRT,PARELHEIROS
+ESF | SB,9788409,UBS Anchieta,5928-1837,Rua Alziro Pinheiro Magalhães - nº 638 - Pq Sao Miguel,ubs.jardimanchieta@saudedafamilia.org,Andressa Aparecida Mazzo Messina,amessina@saudedafamilia.org,99674-1014,Kellyton dos Santos Macedo ,ksmacedo@saudedafamilia.org,,,,,,,,,UBS Autódromo,,,,SRT Parelheiros II,SRT,PARELHEIROS
+ESF | SB |eMulti,9072349,UBS Autódromo,5925-4362 | 5666-1430,"Rua Oswaldo Diniz, 51",ubs.autodromo@saudedafamilia.org,Juliana Rosse ,jrosse@saudedafamilia.org,98266-9299,Fabiana Scaravonatti Melo,fmelo@saudedafamilia.org,,,,,,,,,UBS Cantinho do Céu,,,,AMA/UBS Jardim Castro Alves Dra Maria Cristina F,UBS,CAPELA
+ESF | SB,7884192,UBS Cantinho do Céu,5932-7805 | 5972-4001,"Rua dos Acordes, 200",ubscantinhodoceu@saudedafamilia.org,Oswaldo de Souza Junior,osjunior@saudedafamilia.org,94725-3098,Karine Canário Brandão, kbrandao@saudedafamilia.org,,,,,,,,,UBS Chácara do Conde,,,,AMA UBS Jardim Mirna,UBS,CAPELA
+ESF | SB |eMulti,3992101,UBS Chácara do Conde,5526-7823 | 5938-3109 | 5938-6611,"Rua Constelação do Esquadro, 05",ubschacaradoconde@saudedafamilia.org,"Lidiane Soares dos Santos Melo
+",lssmelo@saudedafamilia.org,11 995499953,Keyla Silva de Carvalho,kscarvalho@saudedafamilia.org,,,,,,,,,UBS Chácara do Sol,,,,UBS JARDIM ICARAÍ QUINTANA,UBS,CAPELA
+ESF | SB,6280188,UBS Chácara do Sol,5931-4151,"Rua João Carlos de Oliveira, 03",ubs.chacaradosol.adm@saudedafamilia.org,Thais Almeida Mota,tmota@saudedafamilia.org,99700-6067, Claudia Souza Pereira Calado,ccalado@saudedafamilia.org,,,,,,,,,UBS Chácara Santo Amaro,,,,UBS Alcina Pimentel Piza,UBS,CAPELA
+ESF | SB,6090591,UBS Chácara Santo Amaro,5974-2486 | 5974-2154,"Rua Luiz Carlos Almeida, 51",ubschacarasantoamaro@saudedafamilia.org,Pollyana Borges de Araújo,pollyborges@saudedafamilia.org,11-98202-6001,Altino Bernardo de Moraes Junio,abjunior@saudedafamilia.org,,,,,,,,,UBS Dr. Sérgio Chaddad,,,,UBS Anchieta,UBS,CAPELA
+UBS | SB,2788551,UBS Dr. Sérgio Chaddad,5928-9529 | 5924-3636 | 5924-3019,Avenida Carlos Oberhuber 659, ubs.sergiochaddad@saudedafamilia.org,Elane Guedes Paranzini,eparanzini@saudedafamilia.org,976781808,Natali  Barbosa de Brum,nbrum@saudedafamilia.org,,,,,,,,,UBS Gaivotas,,,,UBS Autódromo,UBS,CAPELA
+ESF | SB |eMulti,2787067,UBS Gaivotas,5932-6799 | 5932-6407 | 5528-5964," Passagem D, S/N",ubsgaivotas@saudedafamilia.org,Ricardo Amaro Barbosa,rabarbosa@saudedafamilia.org,11989728506,Marina Martins Ondei,mondei@saudedafamilia.org,,,,,,,,,UBS Jardim Cliper,,,,UBS Cantinho do Céu,UBS,CAPELA
+UBS | SB,2751887,UBS Jardim Cliper,5925-4269 | 5925-4259 | 5928-5703,"Rua Dr. Carlos Pezzolo, s/nº",ubs.jardimcliper.adm@saudedafamilia.org,Marcela Coutinho da Conceição Bergmann ,mbergmann@saudedafamilia.org,95911-8558,Tassiana de Paula Salgado,tdpaula@saudedafamilia.org,,,,,,,,,UBS Jardim Eliane,,,,UBS Chácara do Conde,UBS,CAPELA
+ESF | SB |eMulti,2787369,UBS Jardim Eliane,5932-4659 | 5931-5240 | 5528-1887,"Rua Henry Arthur Jones, 201",ubsjardimeliane@saudedafamilia.org,Fernanda Melo Stella,fstella@saudedafamilia.org,99936-3021,Marcia Queiroga Barbosa,mqueiroga@saudedafamilia.org,,,,,,,,,UBS Jardim Icaraí Quintana,,,,UBS Chácara do Sol,UBS,CAPELA
+UBS | SB | eMulti,2787474,UBS Jardim Icaraí Quintana,(11) 3459-5137,"Rua Germano de Magalhães, 41 - Jd Icarai",ubsjardimicaraiquintana@saudedafamilia.org,Flavia Carrascosa,fcarrascosa@saudedafamilia.org,94256-7993,ANA IRIS DE SOUSA QUEIROZ,airis@saudedafamilia.org,,,,,,,,,UBS Jardim Lucélia Sandra Ap Barbosa Correia Lima,,,,UBS Chácara Santo Amaro,UBS,CAPELA
+ESF | SB,9794751,UBS Jardim Lucélia Sandra Ap Barbosa Correia Lima,5528-5660,"Av. Carlos Barbosa Santos, 895",ubs.jardimlucelia@saudedafamilia.org,Danielle Monteiro Varanda,damonteiro@saudedafamilia.org,99519-1441,Elaine Ferreira de Matos,ematos@saudedafamilia.org,,,,,,,,,UBS Jardim Novo Horizonte,,,,UBS Dr. Sérgio Chaddad,UBS,CAPELA
+ESF | SB,6822991,UBS Jardim Novo Horizonte,5938-2208,"Rua Caruanense, 186",ubsnovohorizonte@saudedafamilia.org,,,,ALEXSSANDRO ANTONIO DE AVELAR,aavelar@saudedafamilia.org,,,,,,,,,UBS Jardim Orion/Guanhembu,,,,UBS Gaivotas,UBS,CAPELA
+ESF | SB,9059369,UBS Jardim Orion/Guanhembu,2362-2343 | 5662-8620,"Avenida Fernando Amaro Miranda, 61",ubs.orion.rh@saudedafamilia.org,Amanda Larissa Esteves Vilella,avilella@saudedafamilia.org,99423-0800,RAFAELA DOS SANTOS PARRA,rparra@saudedafamilia.org,,,,,,,,,UBS Jardim Republica,,,,UBS Jardim Cliper,UBS,CAPELA
+UBS | SB,2787709,UBS Jardim Republica,5663-5744 | 5661-4470,"Av. Gonçalo de Paiva Gomes, 285",ubs.jardimrepublica@saudedafamilia.org,Carolina da Silva Buno,cabuno@saudedafamilia.org,96472-2093,Lilian Dourado dos Santos,ldourado@saudedafamilia.org,,,,,,,,,UBS Jardim Três Corações,,,,UBS Jardim Eliane,UBS,CAPELA
+ESF | SB |eMulti,2787903,UBS Jardim Três Corações,5931-6416 | 5931-5969,"Rua General José de Oliveira Ramos, 275",ubsjardimtrescoracoes@saudedafamilia.org,Renata Pires Silveira Fernandes Lô,rfernandes@saudedafamilia.org,99465-6123,Anne Magdaleno,amagdaleno@saudedafamilia.org,,,,,,,,,UBS Jordanópolis,,,,"UBS Jardim Lucélia 
+Sandra Ap Barbosa Correia Lima",UBS,CAPELA
+ESF | SB,2787997,UBS Jordanópolis,5973-6400 | 5928-2453 | 5925-6601,"Rua Jangada Nova, 75",ubsjordanopolis@saudedafamilia.org,Rosana Mara de Souza Leite,rleite@saudedafamilia.org,99162-4829,Guilherme Macedo da Silva,guimacedo@saudedafamilia.org,,,,,,,,,UBS Parque Residencial Cocaia,,,,UBS Jardim Novo Horizonte,UBS,CAPELA
+ESF | SB |eMulti,2788403,UBS Parque Residencial Cocaia,5931-0209 | 5931-4766,"Rua Filinto Milanez, 26",ubsprcocaia@saudedafamilia.org,Silvia Gomes Fernandes,sgfernandes@saudedafamilia.org,98034-0877,Cibele Sales de Albuquerque ,calbuquerque@saudedafamilia.org,,,,,,,,,UBS Shangrilá Ellus,,,,UBS Jardim Orion/Guanhembu,UBS,CAPELA
+ESF | SB |eMulti,9129855,UBS Shangrilá Ellus,5932-2180 | 5976-4677,Rua Sem Nome nº 16 (Rua Rodrigues),ubs.shangrilaellus@saudedafamilia.org,Letícia Tie Itocazo Taira,ltaira@saudedafamilia.org,98827-6014,Luana Da Silva ,lramaldes@saudedafamilia.org,,,,,,,,,UBS Varginha,,,,UBS Jardim Republica,UBS,CAPELA
+ESF | SB |eMulti,2789299,UBS Varginha,5527-2709 | 5526-6008 | 5611-6219,"Rua Henrique Muzzio, 383",ubsvarginha@saudedafamilia.org,Bruna Guedes da Silva,bguedes@saudedafamilia.org,97525-3322,Teresa Alexandra da Silva Savoia,tsavo@saudedafamilia.org,,,,,,,,,UBS Veleiros,,,,UBS Shangrilá Ellus,UBS,CAPELA
+UBS | SB,2789302,UBS Veleiros,5687-0639 | 5681-5520,"Av. Clara Mantelli, 185 - Veleiros, São Paulo - SP",ubs.veleiros@saudedafamilia.org,Sueli Domingos dos Santos Oliveira,suoliveira@saudedafamilia.org,97014-5807,Kamila Veiga Guerini,kveiga@saudedafamilia.org,,,,,,,,,UBS Vila Natal,,,,UBS Jardim Três Corações,UBS,CAPELA
+ESF | SB |eMulti,6998186,UBS Vila Natal,5527-4071 | 5924-7602,"Rua Professora Marta Maria Bernardes, 246",ubsvilanatal@saudedafamilia.org,Carla Del Debbio Calabresi,cdebbio@saudedafamilia.org,97334-0623,Luzia Aparecida dos Santos Oliveira,lsoliveira@saudedafamilia.org,,,,,,,,,UCCI Capela do Socorro,,,,UBS Jordanópolis,UBS,CAPELA
+UCCI,-,UCCI Capela do Socorro,"5527-1060 | 5925-4335 | 
+5929-5960","Rua Cássio de Campos Nogueira, 2.031",hm.capeladosocorro@saudedafamilia.org,Karen Daniela Alberghetti Andrelo     Cintya Fernandes da Silva (Diretora),"kandrelo@saudedafamilia.org, cfernandes@saudedafamilia.org","99668-2202
+96398-5424","Marja Rany Rigotti Baltor
+Eliane Lourdes Galindo Araújo
+Katilene Pereira da Silva
+Lucineia do Carmo de Souza
+Marco Antonio Marciano","mbaltor@saudedafamilia.org, elgaraujo@saudedafamilia.org, katilenepsilva@saudedafamilia.org, lcarmosouza@saudedafamilia.org, mmarciano@saudedafamilia.org",,,,,,,,,UPA Dona Maria Antonieta F. de Barros,,,,UBS Parque Residencial Cocaia,UBS,CAPELA
+UPA,997730,UPA Dona Maria Antonieta F. de Barros,"5927-4938 | 5972-9883 | 5972-4881  
+93749-6187 | 956894536","Rua Antonio Felipe Filho, 180",upa.mariaantonieta@saudedafamilia.org,"Debora Fernandes 
+Gustavo de Castro Xavier ( diretor)","dsilva@saudedafamilia.org, gusxavier@saudedafamilia.org","98013-4580 
+97311-5370",Salvani Priscila Vieira Matias,spmatias@saudedafamilia.org,,,,,,,,,CAPS Infanto-Juvenil II Parelheiros (AQUARELA),,,,UBS Varginha,UBS,CAPELA
+CAPS,6683983,CAPS Infanto-Juvenil II Parelheiros (AQUARELA),5921-9301,"Rua Alessandro Buri, 15",caps.ijiiparelheiros@saudedafamilia.org,Cristiane Ramos de Matos Marcal,cmarcal@saudedafamilia.org,97965-4290,Kamilla Verônica Ribeiro Salles,kveronica@saudedafamilia.org,,,,,,,,,CEO III Parelheiros,,,,UBS Veleiros,UBS,CAPELA
+CEO | SB,5012600,CEO III Parelheiros,5922-1881 | 5921-6695 | 5921-6563,"Estrada do Engenheiro Marsilac, 1047",ceoparelheiros@saudedafamilia.org,Luzinete Damiana Pereira,ldamiana@saudedafamilia.org,99814-3919,Não se aplica,,,,,,,,,,CER II Parelheiros ,,,,UBS Vila Natal,UBS,CAPELA
+CER,6642470,CER II Parelheiros ,5922-8733 | 5979-2006,"Rua Gaspar Leme, S/N",cer2.parelheiros.rh@saudedafamilia.org,Michele Clemente da Silva,msilva@saudedafamilia.org,94992-3838,-,,,,,,,,,,APD CER Parelheiros,,,,UBS Barragem,UBS,PARELHEIROS
+APD,-,APD CER Parelheiros,5922-8733 | 5979-2006,"Rua Gaspar Leme, S/N",apdparelheiros@saudedafamilia.org,Michele Clemente da Silva,msilva@saudedafamilia.org,94992-3838,-,,,,,,,,,,EEV Parelheiros (Alocado na UBS Jd. Campinas),,,,UBS Colônia,UBS,PARELHEIROS
+EEV,,EEV Parelheiros (Alocado na UBS Jd. Campinas),,"Rua das Pleiades, S/N",eev.parelheiros@saudedafamilia.org,Nathalia Março Scaliante,nscaliante@saudedafamilia.org,97414-5564,,,,,,,,,,,EMAD Parelheiros,,,,UBS Dom Luciano Bergamin,UBS,PARELHEIROS
+EMAD,-,EMAD Parelheiros,5979-6486,"Rua Gaspar Leme, S/N",psmbalneario.emad@saudedafamilia.org,"Humberto Nigre
+Emerson Santos da Silva (Diretor)","hnigre@saudedafamilia.org, emssilva@saudedafamilia.org","97336-4649 
+94383-3132",Flavia Pereira de Souza,fpsouza@saudedafamilia.org,,,,,,,,,PAI Parelheiros,,,,UBS Jardim Campinas,UBS,PARELHEIROS
+PAI,-,PAI Parelheiros,5527-3589 | 5527-2000,"Rua das Pleiades, S/N",pai.jardimcampinas@saudedafamilia.org,Braz Barros Arranha ,baranha@saudedafamilia.org ,99702-5083,Lívia Novais da Silva ,lnovais@saudedafamilia.org,,,,,,,,,PSM Balneário São José,,,,UBS Jardim das Fontes,UBS,PARELHEIROS
+PSM,2752093,PSM Balneário São José,5922-2542 | 5922-1805,"Rua Gaspar Leme, S/N",psmbalneario@saudedafamilia.org,"Humberto Nigre
+Emerson Santos da Silva (Diretor)","hnigre@saudedafamilia.org, emssilva@saudedafamilia.org","97336-4649 
+94383-3132","Alessandra
+Jackeline
+","agpsouza@saudedafamilia.org, jnicolau@saudedafamilia.org",,,,,,,,,SRT Parelheiros I,,,,UBS Jardim Embura,UBS,PARELHEIROS
+SRT,-,SRT Parelheiros I,5921-4057 | 5921-9497,"Rua Sérgio Ignácio Ferreira, 713",srtparelheiros@saudedafamilia.org,Ivanir Maciel,imaciel@saudedafamilia.org,94633-1967,Não se aplica,,,,,,,,,,SRT Parelheiros II,,,,UBS Jardim Iporã,UBS,PARELHEIROS
+SRT,-,SRT Parelheiros II,5921-3562,"Rua Clélia de Paulo Stroich, 50",srt2.parelheiros@saudedafamilia.org,Graziela Oliveira Teada,gteada@saudedafamilia.org,99950-3960,Não se aplica,,,,,,,,,,UBS Barragem,,,,UBS Jardim Santa Fé,UBS,PARELHEIROS
+ESF | SB,6332420,UBS Barragem,5977-3212 | 5977-2182,"Rua Três, 02",ubs.barragem.adm@saudedafamilia.org,Vivian Martinez Felippe Mancuzo,vfelippe@saudedafamilia.org,99535-4171,Rita de Cássia Silva Maciel,rsmaciel@saudedafamilia.org,,,,,,,,,UBS Colônia,,,,UBS Jardim São Norberto,UBS,PARELHEIROS
+ESF | SB,6018939,UBS Colônia,5977-3269,"Rua Nossa Senhora da Aparecida, 342",ubscolonia@saudedafamilia.org,Elisangela Benacci,ebenacci@saudedafamilia.org,95465-6842,MAYTE CORTEZ MARINHO,mcortez@saudedafamilia.org,,,,,,,,,UBS Dom Luciano Bergamin,,,,UBS Jardim Silveira,UBS,PARELHEIROS
+ESF | SB,2786990,UBS Dom Luciano Bergamin,5978-6394,"Estrada da Ligação, 01",ubsdomluciano@saudedafamilia.org,Juliana Alves Pereira ,julipereira@saudedafamilia.org,99937-8567,Luciana Rodrigues Alves,lalves@saudedafamilia.org,,,,,,,,,UBS Jardim Campinas,,,,UBS Marsilac,UBS,PARELHEIROS
+ESF | SB | SADT |eMulti,2787229,UBS Jardim Campinas,5527-3589 | 5527-2000 / 55275228,"Rua das Pleiades, S/N",ubs.jardimcampinas@saudedafamilia.org,Nathalia Março Scaliante,nscaliante@saudedafamilia.org,97414-5564,Rosimere da Silva Coutinho,rcoutinho@saudedafamilia.org,,,,,,,,,UBS Jardim das Fontes,,,,UBS Nova América,UBS,PARELHEIROS
+ESF | SB,6332439,UBS Jardim das Fontes,5975-4221,"Rua Mabel Normando, 122",ubsjardimdasfontes@saudedafamilia.org,Claudia Patricia de Moura Marchetti,cmarchetti@saudedafamilia.org,96875-0128,João Evangelista Beijo Filho,jfilho@saudedafamilia.org,,,,,,,,,UBS Jardim Embura,,,,UBS Parelheiros,UBS,PARELHEIROS
+ESF | SB |eMulti,6018912,UBS Jardim Embura,5975-2192 | 5975-2153,"Estrada Benedito Schunk, 08",ubsembura@saudedafamilia.org,Tatiana Helena de Lima,tlima@saudedafamilia.org,99625-4480,Julio Flavio Soares Leme ,jfsoares@saudedafamilia.org,,,,,,,,,UBS Jardim Iporã,,,,UBS Recanto Campo Belo,UBS,PARELHEIROS
+ESF | SB,3689247,UBS Jardim Iporã,5922-3053 | 5922-8486,"Rua Forte de Vila Bela, 29",ubsjardimipora@saudedafamilia.org,Fabiana Mea Cury,fcury@saudedafamilia.org,98280-7295,Lucineia Vieira Aureliano,laureliano@saudedafamilia.org,,,,,,,,,UBS Jardim Santa Fé,,,,UBS Vargem Grande,UBS,PARELHEIROS
+ESF | SB,6332447,UBS Jardim Santa Fé,5921-9504,"Rua Conde de Lancastre, 214",ubsjardimsantafe@saudedafamilia.org,,,,Camila Aparecida Rodrigues,caarodrigues@saudedafamilia.org,,,,,,,,,UBS Jardim São Norberto,,,,UBS Verá Poty,UBS,PARELHEIROS
+ESF | SB,2787814,UBS Jardim São Norberto,5920-8977 | 5921-6640,"Avenida Domenico Lanzetti, S/N",ubs.jardimsaonorberto@saudedafamilia.org,Vinicius Souza Couto,vcouto@saudedafamilia.org,96833-5848,Daiane Neves da Cruz,dncruz@saudedafamilia.org,,,,,,,,,UBS Jardim Silveira,,,,UBS Vila Marcelo,UBS,PARELHEIROS
+ESF | SB,6332463,UBS Jardim Silveira,5921-5294 | 5921-4490,"Rua Bonifácio Asioli, 162",ubsjardimsilveira@saudedafamilia.org,Vivian de Andrade Santos,vsantos@saudedafamilia.org,96452-8484,Aline Piva Fonseca,afonseca@saudedafamilia.org,,,,,,,,,UBS Marsilac,,,,UBS Vila Roschel,UBS,PARELHEIROS
+ESF | SB,6332471,UBS Marsilac,5975-2281,"Estrada Engenheiro Marsilac, 14487",ubsmarsilac@saudedafamilia.org,Cleonice Mariana de Lima,clelima@saudedafamilia.org,98881-6597,Vania Cristiana Barreto Sato,vsato@saudedafamilia.org,,,,,,,,,UBS Nova América,,,,UCCI Capela do Socorro,UCCI,CAPELA
+ESF | SB,6332498,UBS Nova América,5977-3507 | 5977-1966,"Rua Eduardo Collier Filho, 14",ubsnovaamerica@saudedafamilia.org,Luci Elza Moreira de Oliveira,lumoreira@saudedafamilia.org,94983-8399,Michelle Lainy Torres de Melo,mmelo@saudedafamilia.org,,,,,,,,,UBS Parelheiros,,,,UPA Dona Maria Antonieta F. de Barros,UPA,CAPELA
+ESF | SB |eMulti,4050150,UBS Parelheiros,5921-6780 | 5921-4946 | 5921-5361,"Rua Mario Trapé, 100",ubs.parelheiros@saudedafamilia.org,Andre Pereira Apóstolo,aapostolo@saudedafamilia.org,97270-1444,PAULA EMANUELLE FERNANDES NETTO,pnetto@saudedafamilia.org,,,,,,,,,UBS Recanto Campo Belo,,,,UPA Parelheiros,UPA,PARELHEIROS
+ESF | SB |eMulti,2027321,UBS Recanto Campo Belo,5926-2002 | 5921-8022 | 5527-4345,"Rua Virginia Modesto, 800",ubsrecantocampobelo@saudedafamilia.org,Débora Gasparoto,dgasparoto@saudedafamilia.org,94728-1422,Lenice Alves de Carvalho,lacarvalho@saudedafamilia.org,,,,,,,,,UBS Vargem Grande,,,,URSI Capela do Socorro,URI,CAPELA
+ESF | SB |eMulti,2789280,UBS Vargem Grande, 5921-2111 | 5920-2610 ,"Rua das Araras, 49",ubsvargemgrande@saudedafamilia.org,Elisandra Maria da Silva Leal,eleal@saudedafamilia.org,97287-1865,Eunice Pereira Santana,epsantana@saudedafamilia.org,,,,,,,,,UBS Verá Poty,,,,,,
+UBS | SB | SI | EMSI,3561186,UBS Verá Poty,"5977-3851 | 5977-3865
+","Estrada João Lange, 153",ubsverapoty@saudedafamilia.org,Karen Eloiza Rodrigues Andrade Mascarenhas,kmascarenhas@saudedafamilia.org,95464-6688,VIVIANE VIEIRA RAMOS DE ARAUJO,viviramos@saudedafamilia.org,,,,,,,,,UBS Krukutu,,,,,,
+UBS | SB | SI | EMSI,4590759,UBS Krukutu,5827-7585,"Estrada do Curucutu, sem numero",ubs.krukutu@saudedafamilia.org,Lucimar Regina Constantino,lreis@saudedafamilia.org,99291-6059,Aildnize Geselli Santos,agesantos@saudedafamilia.org,,,,,,,,,UBS Vila Marcelo,,,,,,
+ESF | SB,6332501,UBS Vila Marcelo,5979-8972 | 5922-3576,"Rua Amado Bendito Villas Boas, 616",ubsvilamarcelo@saudedafamilia.org,Laís Rodrigues,lrodrigues@saudedafamilia.org,96398-6476,Gilmar Braz Vieira,gbvieira@saudedafamilia.org,,,,,,,,,UBS Vila Roschel,,,,,,
+ESF | SB,6332528,UBS Vila Roschel,5920-2604,"Rua Alice Bastide, 290",ubsvilaroschel@saudedafamilia.org,Lilian de Santana Farias Santos,lsfarias@saudedafamilia.org,99634-9266,Maria Aparecida Xavier da Gama Simão,msimao@saudedafamilia.org,,,,,,,,,UPA Parelheiros,,,,,,
+UPA,974730,UPA Parelheiros,5926-0430,"Estrada Eco turística de Parelheiros, 5252 - Jardim dos Álamos ",upa.parelheiros@saudedafamilia.org,"Camila de Souza Pereira (Diretora)
+Veronica Miranda (gerente)","cpereira@saudedafamilia.org, vesoares@saudedafamilia.org","96483-0032 (Diretora)
+96880-1982 (Gerente)",Vanessa Lopes Rios,vrios@saudedafamilia.org,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,Anderson Silva,,,,,,
+,,,,,,,,,,,,,,,,,,,Erika Dias,,,,,,
+,,,,,,,,,,,,,,,,,,,Carla Sena,,,,,,
+,,,,,,,,,,,,,,,,,,,Henrique Diesel,,,,,,
+,,,,,,,,,,,,,,,,,,,Eliseu Vieira,,,,,,
+,IMPORTE ESCRITÓRIO,,,,,,,,,,,,,,,,,,Fernando Gonçalves,,,,,,
+,,Anderson Silva,,,,,adsilva@saudedafamilia.org,(11) 9 7297-0653,,,,,,,,,,,Rosimeire de Araújo,,,,,,
+,,Erika Dias,,,,,edias@saudedafamilia.org,,,,,,,,,,,,Julio Eduardo,,,,,,
+,,Carla Sena,,,,,casena@saudedafamilia.org,,,,,,,,,,,,Ana Honorato,,,,,,
+,,Henrique Diesel,,,,,hdiesel@saudedafamilia.org,,,,,,,,,,,,Ana Paula Angeleli ,,,,,,
+,,Eliseu Vieira,,,,,elivieira@saudedafamilia.org,,,,,,,,,,,,Cristina Freire,,,,,,
+,,Fernando Gonçalves,,,,,fgoncalves@saudedafamilia.org,(11) 9 6665-2772,,,,,,,,,,,Diego da Silveira,,,,,,
+,,Rosimeire de Araújo,,,,,roandrade@saudedafamilia.org,,,,,,,,,,,,Denise Koike,,,,,,
+,,Julio Eduardo,,,,,jeduardo@saudedafamilia.org,,,,,,,,,,,,Juliana Collares,,,,,,
+,,Ana Honorato,,,,,ahonorato@saudedafamilia.org ,(11) 9 8445-0021,,,,,,,,,,,Paula Bertoluci,,,,,,
+,,Ana Paula Angeleli ,,,,,aangeleli@saudedafamilia.org,,,,,,,,,,,,Lirian Takahashi,,,,,,
+,,Cristina Freire,,,,,cweffort@saudedafamilia.org,(11) 9 7472-3004,,,,,,,,,,,José Severo,,,,,,
+,,Diego da Silveira,,,,,dsilveira@saudedafamilia.org,,,,,,,,,,,,Helen Correia,,,,,,
+,,Denise Koike,,,,,dkoike@saudedafamilia.org,,,,,,,,,,,,Priscila Galati,,,,,,
+,,Juliana Collares,,,,,jcollares@saudedafamilia.org,,,,,,,,,,,,Margareth Priel,,,,,,
+,,Paula Bertoluci,,,,,pbertoluci@saudedafamilia.org,,,,,,,,,,,,Stefani Maia,,,,,,
+,,Lirian Takahashi,,,,,ltakahashi@saudedafamilia.org,,,,,,,,,,,,Camila Urbanovick,,,,,,
+,,José Severo,,,,,jsevero@saudedafamilia.org ,,,,,,,,,,,,Rebeca Valle,,,,,,
+,,Helen Correia,,,,,hcfernandes@saudedafamilia.org,,,,,,,,,,,,Caroline Porto,,,,,,
+,,Priscila Galati,,,,,pgalati@saudedafamilia.org,,,,,,,,,,,,Quézia Gomes,,,,,,
+,,Margareth Priel,,,,,mpriel@saudedafamilia.org,,,,,,,,,,,,Thaise de Jesus Costa,,,,,,
+,,Stefani Maia,,,,,asfsul.desenvolvimento@saudedafamilia.org,,,,,,,,,,,,Luiz Marcelo,,,,,,
+,,Camila Urbanovick,,,,,asfsul.desenvolvimento@saudedafamilia.org,,,,,,,,,,,,Carlos Barbosa,,,,,,
+,,Rebeca Valle,,,,,rvalle@saudedafamilia.org,,,,,,,,,,,,Cinthya Arruda,,,,,,
+,,Caroline Porto,,,,,cporto@saudedafamilia.org,,,,,,,,,,,,Gisella Scuarcialupi,,,,,,
+,,Quézia Gomes,,,,,qgnascimento@saudedafamilia.org,,,,,,,,,,,,Letícia Magnani,,,,,,
+,,Thaise de Jesus Costa,,,,,tjcosta@saudedafamilia.org,,,,,,,,,,,,Andreia Cristina,,,,,,
+,,Luiz Marcelo,,,,,lfungaro@saudedafamilia.org,,,,,,,,,,,,Juliana Gonçalves,,,,,,
+,,Carlos Barbosa,,,,,cbarbosa@saudedafamilia.org,,,,,,,,,,,,Jane Cleia,,,,,,
+,,Cinthya Arruda,,,,,cioliveira@saudedafamilia.org,,,,,,,,,,,,Alba Valéria,,,,,,
+,,Gisella Scuarcialupi,,,,,gpereira@saudedafamilia.org,,,,,,,,,,,,Gustavo Oliveira,,,,,,
+,,Letícia Magnani,,,,,lmagnani@saudedafamilia.org,,,,,,,,,,,,Nilton Ferreira,,,,,,
+,,Andreia Cristina,,,,,andreiac@saudedafamilia.org,(11) 9 8283-3142,,,,,,,,,,,Edson Arlindo,,,,,,
+,,Juliana Gonçalves,,,,,jdpaula@saudedafamilia.org , (11) 9 9593-6672,,,,,,,,,,,Luiz Felipe,,,,,,
+,,Jane Cleia,,,,,jsantos@saudedafamilia.org,(11) 9 7287-0853,,,,,,,,,,,Celso Toyoda,,,,,,
+,,Alba Valéria,,,,,avazevedo@saudedafamilia.org,,,,,,,,,,,,Felipe Lindoufo,,,,,,
+,,Gustavo Oliveira,,,,,guoliveira@saudedafamilia.org,,,,,,,,,,,,Rafael Maletz Swarowsky,,,,,,
+,,Nilton Ferreira,,,,,niferreira@saudedafamilia.org,,,,,,,,,,,,Paulo Sergio Moitinho,,,,,,
+,,Edson Arlindo,,,,,ednascimento@saudedafamilia.org,,,,,,,,,,,,Paola Rezende,,,,,,
+,,Luiz Felipe,,,,,lfelipe@saudedafamilia.org,,,,,,,,,,,,Juliana Cabral,,,,,,
+,,Celso Toyoda,,,,,ctoyoda@saudedafamilia.org,(11) 9 9120-6551,,,,,,,,,,,Patricia Assis,,,,,,
+,,Felipe Lindoufo,,,,,flalmeida@saudedafamilia.org,,,,,,,,,,,,Carla Alessandra,,,,,,
+,,Rafael Maletz Swarowsky,,,,,rmaletz@saudedafamilia.org,,,,,,,,,,,,Ana Paula Pereira ,,,,,,
+,,Paulo Sergio Moitinho,,,,,pmoitinho@saudedafamilia.org,,,,,,,,,,,,Débora Tayana,,,,,,
+,,Paola Rezende,,,,,,,,,,,,,,,,,Grazieli Camargo Duarte,,,,,,
+,,Juliana Cabral,,,,,jcabral@saudedafamilia.org,(11) 9 6473-9553,,,,,,,,,,,Andreia Patterson,,,,,,
+,,Patricia Assis,,,,,passis@saudedafamilia.org,,,,,,,,,,,,Rosaria Alves,,,,,,
+,,Carla Alessandra,,,,,calessandra@saudedafamilia.org,,,,,,,,,,,,Eduardo Alonso,,,,,,
+,,Ana Paula Pereira ,,,,,anppereira@saudedafamilia.org,,,,,,,,,,,,Alan Sabino,,,,,,
+,,Débora Tayana,,,,,dtsilva@saudedafamilia.org,,,,,,,,,,,,Renato Cintra,,,,,,
+,,Grazieli Camargo Duarte,,,,,gcduarte@saudedafamilia.org,,,,,,,,,,,,Carla Taynara,,,,,,
+,,Andreia Patterson,,,,,apatterson@saudedafamilia.org,,,,,,,,,,,,Glauber Alves,,,,,,
+,,Rosaria Alves,,,,,rosaalves@saudedafamilia.org,,,,,,,,,,,,Alessandro Luppinetti,,,,,,
+,,Eduardo Alonso,,,,,ealonso@saudedafamilia.org,,,,,,,,,,,,Daniela Cunha,,,,,,
+,,Alan Sabino,,,,,asabino@saudedafamilia.org,(11) 9 6486-8430,,,,,,,,,,,Elisângela Barbosa,,,,,,
+,,Renato Cintra,,,,,racintra@saudedafamilia.org ,,,,,,,,,,,,,,,,,,
+,,Carla Taynara,,,,,ctaynara@saudedafamilia.org,,,,,,,,,,,,,,,,,,
+,,Glauber Alves,,,,,glalves@saudedafamilia.org ,,,,,,,,,,,,,,,,,,
+,,Alessandro Luppinetti,,,,,aluppinetti@saudedafamilia.org ,,,,,,,,,,,,,,,,,,
+,,Daniela Cunha,,,,,asfsul.saudeocupacional@saudedafamilia.org,,,,,,,,,,,,,,,,,,
+,,Elisângela Barbosa,,,,,asfsul.saudeocupacional@saudedafamilia.org,,,,,,,,,,,,,,,,,,
